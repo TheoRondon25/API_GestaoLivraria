@@ -34,3 +34,4 @@ C:\Documentos\PROJETOS_ESTUDO\Formacao_Csharp_RocketSeat\Projetos_Praticos_Rocke
 C:\Documentos\PROJETOS_ESTUDO\Formacao_Csharp_RocketSeat\Projetos_Praticos_RocketSeat\API_GestaoLivraria\obj\Debug\net8.0\API_GestaoLivraria.pdb
 C:\Documentos\PROJETOS_ESTUDO\Formacao_Csharp_RocketSeat\Projetos_Praticos_RocketSeat\API_GestaoLivraria\obj\Debug\net8.0\API_GestaoLivraria.genruntimeconfig.cache
 C:\Documentos\PROJETOS_ESTUDO\Formacao_Csharp_RocketSeat\Projetos_Praticos_RocketSeat\API_GestaoLivraria\obj\Debug\net8.0\ref\API_GestaoLivraria.dll
+C:\Documentos\PROJETOS_ESTUDO\Formacao_Csharp_RocketSeat\Projetos_Praticos_RocketSeat\API_GestaoLivraria\obj\Debug\net8.0\API_GestaoLivraria.sourcelink.json
